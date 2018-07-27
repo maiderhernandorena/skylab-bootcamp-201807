@@ -1,5 +1,0 @@
-# staff
-
-- Edu
-- Kim
-- Gio

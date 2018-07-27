@@ -1,5 +1,0 @@
-# staff
-
-- Jaume
-- Laia
-- Pau
