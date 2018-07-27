@@ -1,1 +1,0 @@
-[robert anthony](https://github.com/robert-barcelona/)
